@@ -19,3 +19,20 @@ Coordinate Reference System (CRS): **EPSG:32644 (WGS 84 / UTM Zone 44N)**
 
 ## 📊 Final LULC Map
 ![LULC Classification Map](outputs/lulc_rf_trichy_2025.png)
+
+---
+
+## 🛰️ Data Used
+
+- **Satellite:** Sentinel-2 Level-2A (ESA)
+- **Acquisition Date:** March 13, 2025
+- **Spatial Resolution:** 10 m
+- **Spectral Bands Used:**
+  - B02 (Blue)
+  - B03 (Green)
+  - B04 (Red)
+  - B08 (Near Infrared)
+
+> Note: Raw Sentinel-2 data is not included in this repository due to file size limitations.
+
+

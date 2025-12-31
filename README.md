@@ -58,6 +58,15 @@ Coordinate Reference System (CRS): **EPSG:32644 (WGS 84 / UTM Zone 44N)**
 - **Version Control:** GitHub
 
 
+---
+
+## 📈 Results
+
+- Overall classification accuracy: **~83%**
+- Vegetation and water classes showed high precision due to strong spectral separability.
+- Some confusion was observed between built-up and barren land, which is expected at 10 m resolution.
+- The final output is a georeferenced LULC map suitable for urban analysis and planning applications.
+
 
 
 
